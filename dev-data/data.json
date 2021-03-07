@@ -1,0 +1,40 @@
+[
+    {
+      "id": 0,
+      "productName": "Studio Ghibli Shirt",
+      "description": "A simple anime T-shirt for Studio Ghibli fans",
+      "gender":"Male",
+      "size":"L",
+      "color":"Grey",
+      "photo":"./static/ghiblishirt.jpg"
+    },
+    {
+        "id": 1,
+        "productName": "Slim Shirt",
+        "description": "A slim t-shirt for everyday",
+        "gender":"Male",
+        "size":"M",
+        "color":"Blue",
+        "photo":"./static/slimblue.jpeg"
+      },
+      {
+          "id": 2,
+          "productName": "Power Puff Girls T-Shirt",
+          "description": "A PPG t-shirt for kids",
+          "gender":"Female",
+          "size":"S",
+          "color":"Pink",
+          "photo":"./static/powerpuff.jpg"
+        },
+        {
+            "id": 3,
+            "productName": "Green T-Shirt",
+            "description": "A green T-shirt for everyday use!",
+            "gender":"Female",
+            "size":"M",
+            "color":"Green",
+            "photo":"./static/greenfemale.jpg"
+          }
+  
+  ]
+  
