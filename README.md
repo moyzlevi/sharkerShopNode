@@ -12,5 +12,5 @@ I'm a student at UFCSPA in Porto Alegre, Brasil. Currently, I'm studying a cours
 
 ## Actual Project
 
-![alt text](https://imgur.com/O4NvSnX)
-[Imgur](https://imgur.com/O4NvSnX)
+![alt text](https://i.imgur.com/O4NvSnX.png)
+
