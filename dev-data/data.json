@@ -6,7 +6,7 @@
       "gender":"Male",
       "size":"L",
       "color":"Grey",
-      "photo":"./static/ghiblishirt.jpg"
+      "photo":"https://i.imgur.com/BnMBCHX.jpg"
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "gender":"Male",
         "size":"M",
         "color":"Blue",
-        "photo":"./static/slimblue.jpeg"
+        "photo":"https://i.imgur.com/UrawYlz.jpg"
       },
       {
           "id": 2,
@@ -24,7 +24,7 @@
           "gender":"Female",
           "size":"S",
           "color":"Pink",
-          "photo":"./static/powerpuff.jpg"
+          "photo":"https://i.imgur.com/DYAu02X.jpg"
         },
         {
             "id": 3,
@@ -33,7 +33,7 @@
             "gender":"Female",
             "size":"M",
             "color":"Green",
-            "photo":"./static/greenfemale.jpg"
+            "photo":"https://i.imgur.com/NRtGkhN.jpg"
           }
   
   ]
